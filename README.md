@@ -1,1 +1,1 @@
-# screenshot-in-java adn push in dropbox
+# screenshot-in-java and push in dropbox
